@@ -5,7 +5,7 @@ namespace TesteLive.Models.Response
         public ErrorResponse (int codigo, System.Exception erro)
         {
             this.Codigo = codigo;
-            this.Erro = erro.Message;
+            this.Erro = erro;
         }
 
         public int Codigo { get; set; }
