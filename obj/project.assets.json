@@ -898,19 +898,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lucie\\.nuget\\packages\\": {}
+    "C:\\Users\\Everson\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucie\\OneDrive\\Documentos\\Teste api\\TesteLive\\TesteLive.csproj",
+      "projectUniqueName": "C:\\Users\\Everson\\Documents\\API\\Nova pasta\\TesteLive\\TesteLive.csproj",
       "projectName": "TesteLive",
-      "projectPath": "C:\\Users\\lucie\\OneDrive\\Documentos\\Teste api\\TesteLive\\TesteLive.csproj",
-      "packagesPath": "C:\\Users\\lucie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucie\\OneDrive\\Documentos\\Teste api\\TesteLive\\obj\\",
+      "projectPath": "C:\\Users\\Everson\\Documents\\API\\Nova pasta\\TesteLive\\TesteLive.csproj",
+      "packagesPath": "C:\\Users\\Everson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Everson\\Documents\\API\\Nova pasta\\TesteLive\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lucie\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Everson\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

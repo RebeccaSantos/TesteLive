@@ -11,7 +11,8 @@ namespace TesteLive.Controllers
 [Route("[controller]")]
     public class filmecontroller:ControllerBase
     {
-        
+        public 
+         
         
     }
 }
